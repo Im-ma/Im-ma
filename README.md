@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Im-ma
-- 👀 I’m interested in ... Wedsite Developing
-- 🌱 I’m currently learning ...Html,CSS and Javascript
+- 👀 I’m interested in ... UI/UX Engineering
+- 🌱 I’m currently learning ...Motion Design
 - 💞️ I’m looking to collaborate on ...Anything beneficial
 - 📫 How to reach me ...Linkedin: https://www.linkedin.com/in/immanuel-tutu-mensah/
 <!---
